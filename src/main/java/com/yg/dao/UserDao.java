@@ -5,4 +5,5 @@ import com.yg.pojo.User;
 public interface UserDao {
 
     public int insertUser(User user);
+    int add();
 }
