@@ -7,4 +7,5 @@ public interface UserDao {
     public int insertUser(User user);
     int add();
     int add1();
+    int add2();
 }
